@@ -1,16 +1,15 @@
-## Hi there 👋
+###  boas vindas ao meu perfil 💙
 
-<!--
-**nathanferreira7/nathanferreira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é nathan ferreira
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para minha organização e compartilhamendo do meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ###      você entrar em contato comigo 📫
+
+- @nathan.sobrinho@escola.pr.gov.br
+
+
+
+![](https://media.tenor.com/LD-Bgk2DQPoAAAAi/messi-copa-del-mundo-2022.gif)
